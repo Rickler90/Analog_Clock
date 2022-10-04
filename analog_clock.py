@@ -1,4 +1,3 @@
-#Sanchez, Ryan Carlos
 from turtle import Turtle, Screen
 import datetime
 
